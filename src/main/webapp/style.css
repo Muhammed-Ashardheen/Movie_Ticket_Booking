@@ -1,0 +1,12 @@
+body{font-family:Arial,sans-serif;background:#f2f4f8;margin:0}
+nav{background:#222;padding:12px 20px}
+nav a{color:#fff;margin-right:18px;text-decoration:none}
+.box{max-width:900px;margin:30px auto;background:#fff;padding:24px;border-radius:8px;box-shadow:0 2px 6px #0002}
+table{width:100%;border-collapse:collapse}
+th,td{padding:8px;border-bottom:1px solid #ddd;text-align:left}
+th{background:#eee}
+.btn,button{background:#d32f2f;color:#fff;border:0;padding:8px 14px;border-radius:4px;text-decoration:none;cursor:pointer;display:inline-block}
+button.danger{background:#555}
+label{display:block;margin-top:12px}
+input{padding:8px;width:100%;max-width:320px;box-sizing:border-box}
+.ok{color:#2e7d32}.err{color:#c62828}
